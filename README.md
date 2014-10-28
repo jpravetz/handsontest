@@ -1,0 +1,1 @@
+Test handsontable resizing.
